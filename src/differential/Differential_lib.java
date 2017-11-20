@@ -13,6 +13,7 @@ public class Differential_lib implements Differential_if{
 		return 2*this.a;
 	}
 
+	
 	@Override
 	public double getDx() {
 		// TODO Auto-generated method stub
