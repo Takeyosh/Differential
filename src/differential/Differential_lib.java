@@ -14,6 +14,7 @@ public class Differential_lib implements Differential_if{
 	}
 
 	
+	
 	@Override
 	public double getDx() {
 		// TODO Auto-generated method stub

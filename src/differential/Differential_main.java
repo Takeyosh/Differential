@@ -13,6 +13,7 @@ public class Differential_main {
 		double h=Double.parseDouble(scan.next());
 		
 		
+		
 		Differential_lib dlib=new Differential_lib(a,h);
 		System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”÷•ªŒW”‚Í"+dlib.getRx());
 		System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”÷•ªŒW”‚Í"+dlib.getDx());
